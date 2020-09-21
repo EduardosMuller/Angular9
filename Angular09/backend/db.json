@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Azul",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Caneta BIC preta",
+      "price": 5.89
+    },
+    {
+      "id": 3,
+      "name": "Notebook Mac Pro",
+      "price": 15005.89
+    },
+    {
+      "id": 4,
+      "name": "Samsung S10 +",
+      "price": 4000.99
+    },
+    {
+      "name": "Pc Gamer",
+      "price": "5568.77",
+      "id": 5
+    }
+  ]
+}
